@@ -17,3 +17,14 @@ header h1 {
     color: aquamarine;
     text-align: center;
 }
+
+.vid {
+    display: flex;
+    align-items: center;
+}
+
+.video {
+    display: box;
+    align-self: center;
+    margin: 0 auto;
+}
